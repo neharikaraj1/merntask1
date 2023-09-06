@@ -1,0 +1,26 @@
+
+div.inner{
+    width:300px;
+    background-color:rgb(93, 11, 40);
+    margin:20px;
+    padding:30px;
+    padding-top: 10px;
+}
+div.outer{
+    
+    width:500px;
+    background-color:rgba(155, 45, 85, 0.897);
+    padding:5px 100px 5px 100px;
+    margin: 50px 50px 50px 50px;
+    
+
+    
+}
+td{
+    color:#f1f1f1;
+}
+
+#regbut{
+    text-align: center;
+     width: 100%;
+}
